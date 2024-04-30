@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ZoneWall
+  - CurrentCircle
+  - SpawnPoint
+  - Manager
+  - End
+  - Data
+  - MysteryBox
+  - Board
+  - MysterySpawnPoint
+  - EndSpawnPoint
+  - Navigator
+  - Trap
+  - Deathzone
+  - SceneAnimator
+  - FxTemporaire
+  - Particle
+  - Panel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - P1 Cam
+  - P2 Cam
+  - Player
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
